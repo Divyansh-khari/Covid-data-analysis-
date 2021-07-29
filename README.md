@@ -1,2 +1,2 @@
-# Cmpt 353 group project
+# Cmpt 353  project
 
